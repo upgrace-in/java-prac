@@ -8,7 +8,7 @@ class Cow implements Animal{
     }
 }
 
-class Main{
+class Prac1{
     public static void main(String[] args){
         Cow m = new Cow();
         m.run();
