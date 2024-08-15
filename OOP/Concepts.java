@@ -2,7 +2,7 @@
  * Encapsulation
  */
 
-public class Person{
+class Person{
     private String name;
 
     // Getter
