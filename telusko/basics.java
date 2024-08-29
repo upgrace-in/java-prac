@@ -183,6 +183,6 @@ class basics {
         // } catch (Exception e) {
         //     System.out.println("Hari");
         // }
-        anonymousObject();
+        // anonymousObject();
     }
 }
