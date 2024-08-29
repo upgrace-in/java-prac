@@ -15,7 +15,7 @@ public class Final {
     public static void main(String[] args){
         final float PI = 3.14f;
         // we can't change here as the variable is declared as final
-        PI = 2.4f;
+        // PI = 2.4f;
     }   
 }
 
